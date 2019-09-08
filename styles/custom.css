@@ -567,3 +567,27 @@ container.a{text-decoration: underline;}
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 17px;
 	}
+
+.toc {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 100px
+}
+.anchor {
+    display:block;
+    position: relative;
+    top: -75px;
+    visibility: hidden;
+}
+
+table {
+    border: 1px solid black;
+    width: 100%;
+}
+th {
+    border: 1px solid black;
+    font-weight:bolder;
+}
+tr, td {
+    border: 1px solid black;
+}

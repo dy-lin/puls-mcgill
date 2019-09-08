@@ -95,7 +95,9 @@
 .foundicon-laptop:before {
   content: "\f010";
 }
-
+.foundicon-time:before {
+    content:"\f029"
+}
 .foundicon-phone:before {
   content: "\f011";
 }
