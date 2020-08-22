@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display
  
  container{
 	margin:10px 0;
-	font-family:inherit;
+	font-family: inherit;
 	font-weight:bold;
 	line-height:20px;
 	color:inherit;
